@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 path/to/directory/
+chmod 711 path/to/directory/
